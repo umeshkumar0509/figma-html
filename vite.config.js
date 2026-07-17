@@ -10,7 +10,7 @@ export default defineConfig({
   ],
 
   // GitHub Pages root deployment
-  base: '/',
+  base: '/figma-html/',
 
   server: {
     port: 5173,
