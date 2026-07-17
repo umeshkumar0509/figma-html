@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "name": "Naukri Pro",
+    "logoUrl": "https://placehold.co/160x40?text=Logo"
+  },
+  "preheader": "Your profile just got 3x more visible to recruiters.",
+  "hero": {
+    "imageUrl": "https://placehold.co/600x280",
+    "imageAlt": "Recruiters reviewing resumes"
+  },
+  "headline": "Get noticed by top recruiters this week",
+  "body": "You're one step away from unlocking premium visibility. Upgrade your profile now and let recruiters find you faster than ever.",
+  "bulletPoints": [
+    "Appear at the top of recruiter search results",
+    "See who viewed your profile",
+    "Get personalized job matches every morning"
+  ],
+  "cta": {
+    "label": "Upgrade My Profile",
+    "url": "https://naukri.com/upgrade"
+  },
+  "secondaryLink": {
+    "label": "Maybe later",
+    "url": "https://naukri.com/dashboard"
+  },
+  "footer": {
+    "address": "Info Edge (India) Ltd, Noida, UP, India",
+    "unsubscribeUrl": "https://naukri.com/unsubscribe",
+    "socialLinks": [
+      { "label": "LinkedIn", "url": "https://linkedin.com/company/naukri" },
+      { "label": "Twitter", "url": "https://twitter.com/naukri" }
+    ]
+  },
+  "colors": {
+    "primary": "#4A90D9",
+    "accent": "#FF6B35"
+  }
+}
