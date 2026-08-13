@@ -10,8 +10,8 @@ import {
 // "-latest" aliases auto-track Google's current Flash release (multimodal,
 // vision-capable) so this doesn't go stale the way a pinned version does.
 // Override via .env with a pinned version if you need reproducible output.
-const VISION_MODEL = import.meta.env.VITE_GEMINI_VISION_MODEL || "gemini-flash-latest";
-const TEXT_MODEL = import.meta.env.VITE_GEMINI_TEXT_MODEL || "gemini-flash-latest";
+const VISION_MODEL = import.meta.env.VITE_GEMINI_VISION_MODEL || "gemini-3.5-flash";
+const TEXT_MODEL = import.meta.env.VITE_GEMINI_TEXT_MODEL || "gemini-3.5-flash";
 
 let client = null;
 
